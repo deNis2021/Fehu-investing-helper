@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIt98tL26eI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artline\\Desktop\\ікм\\weather\\ConsAppTCPServer\\ConsAppTCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artline\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
